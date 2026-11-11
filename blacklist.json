@@ -1,5 +1,5 @@
 {
-  "devices": [],
+  "devices": ["7CCA70C1"],
   "serials": [],
-  "grants": [{"dev":"7CCA70C1","expire":1795016099994}, {"dev":"FCDB4B42","expire":1797006373997}]
+  "grants": [{"dev":"FCDB4B42","expire":1797006373997}]
 }
