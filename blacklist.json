@@ -1,5 +1,5 @@
 {
-  "devices": ["7CCA70C1"],
+  "devices": [],
   "serials": [],
-  "grants": []
+  "grants": [{"dev":"7CCA70C1","expire":1795016099994}]
 }
