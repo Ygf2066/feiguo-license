@@ -1,4 +1,10 @@
 {
   "devices": [],
-  "serials": []
+  "serials": [],
+  "grants": [
+    {
+      "dev": "58EC6667",
+      "expire": 1797001629594
+    }
+  ]
 }
