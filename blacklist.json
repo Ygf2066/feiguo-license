@@ -1,10 +1,5 @@
 {
   "devices": [],
   "serials": [],
-  "grants": [
-    {
-      "dev": "58EC6667",
-      "expire": 1797001629594
-    }
-  ]
+  "grants": [{"dev":"FCDB4B42","expire":1797002131178}]
 }
