@@ -1,5 +1,1 @@
-{
-  "devices": [],
-  "serials": [],
-  "grants": [{"dev":"7CCA70C1","expire":1795016099994}, {"dev":"FCDB4B42","expire":1797006287714}, {"dev":"45DA12B3","expire":1826021343819}]
-}
+{"devices":[],"serials":[],"grants":[{"dev":"7CCA70C1","expire":1795016099994},{"dev":"FCDB4B42","expire":1797006287714},{"dev":"45DA12B3","expire":1826021343819},{"dev":"58EC6667","expire":1826071465994}]}
