@@ -5,13 +5,15 @@
   "file": "libduanju_core_stream.so",
   "size": 15880240,
   "sha256": "59b1bedeb696364239cefde72748199b35b25f52e9ec1ab31316f366eb63b353",
-  "publishedAt": "2026-11-26 08:11:48",
+  "publishedAt": "2026-11-26 08:12:46",
   "note": "上游 0.1.60 设备画像/EGDI",
   "urls": [
+    "https://gh-proxy.com/https://raw.githubusercontent.com/Ygf2066/feiguo-license/main/stream/libduanju_core_stream.so",
     "https://raw.githubusercontent.com/Ygf2066/feiguo-license/main/stream/libduanju_core_stream.so",
     "https://cdn.jsdelivr.net/gh/Ygf2066/feiguo-license@main/stream/libduanju_core_stream.so"
   ],
   "manifestUrls": [
+    "https://gh-proxy.com/https://raw.githubusercontent.com/Ygf2066/feiguo-license/main/stream/stream.json",
     "https://raw.githubusercontent.com/Ygf2066/feiguo-license/main/stream/stream.json",
     "https://cdn.jsdelivr.net/gh/Ygf2066/feiguo-license@main/stream/stream.json"
   ]
