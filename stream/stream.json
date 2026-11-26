@@ -1,12 +1,12 @@
 {
-  "code": 2006105,
+  "code": 2006106,
   "proto": "0.1.60",
   "abi": "arm64-v8a",
   "file": "libduanju_core_stream.so",
   "size": 15880240,
-  "sha256": "59b1bedeb696364239cefde72748199b35b25f52e9ec1ab31316f366eb63b353",
-  "publishedAt": "2026-11-26 08:12:46",
-  "note": "上游 0.1.60 设备画像/EGDI",
+  "sha256": "de98ecd3f44ad3ee4e944af93f973d0443317862070f955b76d136aa9e587019",
+  "publishedAt": "2026-11-26 08:16:02",
+  "note": "热更通道自测（内容同 60）",
   "urls": [
     "https://gh-proxy.com/https://raw.githubusercontent.com/Ygf2066/feiguo-license/main/stream/libduanju_core_stream.so",
     "https://raw.githubusercontent.com/Ygf2066/feiguo-license/main/stream/libduanju_core_stream.so",
